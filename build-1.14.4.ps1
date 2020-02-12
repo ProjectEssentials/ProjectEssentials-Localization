@@ -37,7 +37,10 @@ function DownloadLocalization {
             $moduleVersion = "1.14.4"
         }
     }
-
+    else {
+        $moduleVersion = "1.15.2"
+    }
+    
     $link
     if ($module -eq "essentials") {
         $link = "$urlBase/ProjectEssentials/raw/MC-$mcVersion/src/main/resources/assets/projectessentials/lang"
