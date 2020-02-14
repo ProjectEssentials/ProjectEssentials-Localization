@@ -6,6 +6,8 @@ This problem can be fixed in a very simple step. Find the resource-pack property
 
 If the localization is out of date, run `build.ps1`, it will automatically download all the localization and pack resource packs in the `out` folder.
 
+Direct links for Minecraft 1.14.4.
+
 ```
 For all modules: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-all.zip
 
@@ -26,4 +28,28 @@ For home module: https://github.com/ProjectEssentials/ProjectEssentials-Localiza
 For warps module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-warps.zip
 
 For backup module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-backup.zip
+```
+
+Direct links for Minecraft 1.15.2.
+
+```
+For all modules: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-all.zip
+
+For essentials module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-essentials.zip
+
+For core module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-core.zip
+
+For permissions module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-permissions.zip
+
+For cooldown module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-cooldown.zip
+
+For chat module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-chat.zip
+
+For spawn module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-spawn.zip
+
+For home module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-home.zip
+
+For warps module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-warps.zip
+
+For backup module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-backup.zip
 ```
