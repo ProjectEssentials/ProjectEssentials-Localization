@@ -9,47 +9,47 @@ If the localization is out of date, run `build.ps1`, it will automatically downl
 Direct links for Minecraft 1.14.4.
 
 ```
-For all modules: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-all.zip
+For all modules: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-all.zip
 
-For essentials module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-essentials.zip
+For essentials module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-essentials.zip
 
-For core module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-core.zip
+For core module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-core.zip
 
-For permissions module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-permissions.zip
+For permissions module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-permissions.zip
 
-For cooldown module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-cooldown.zip
+For cooldown module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-cooldown.zip
 
-For chat module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-chat.zip
+For chat module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-chat.zip
 
-For spawn module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-spawn.zip
+For spawn module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-spawn.zip
 
-For home module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-home.zip
+For home module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-home.zip
 
-For warps module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-warps.zip
+For warps module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-warps.zip
 
-For backup module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.14.4-backup.zip
+For backup module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.14.4-backup.zip
 ```
 
 Direct links for Minecraft 1.15.2.
 
 ```
-For all modules: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-all.zip
+For all modules: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-all.zip
 
-For essentials module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-essentials.zip
+For essentials module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-essentials.zip
 
-For core module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-core.zip
+For core module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-core.zip
 
-For permissions module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-permissions.zip
+For permissions module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-permissions.zip
 
-For cooldown module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-cooldown.zip
+For cooldown module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-cooldown.zip
 
-For chat module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-chat.zip
+For chat module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-chat.zip
 
-For spawn module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-spawn.zip
+For spawn module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-spawn.zip
 
-For home module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-home.zip
+For home module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-home.zip
 
-For warps module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-warps.zip
+For warps module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-warps.zip
 
-For backup module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.0.0/ProjectEssentials-Localization-1.15.2-backup.zip
+For backup module: https://github.com/ProjectEssentials/ProjectEssentials-Localization/releases/download/v1.1.0/ProjectEssentials-Localization-1.15.2-backup.zip
 ```
